@@ -1,4 +1,13 @@
 # Byte-compiled / optimized / DLL files
+
+# Intellij
+.idea/*
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
 __pycache__/
 *.py[cod]
 *$py.class
